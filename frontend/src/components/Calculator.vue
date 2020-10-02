@@ -1,7 +1,5 @@
 <template>
-  <div class="hello">
-    <!-- <h1>{{ msg }}</h1> -->
-    
+  <div class="hello">    
     <div>
       <h1 class="title">Calculator</h1>
     </div>
